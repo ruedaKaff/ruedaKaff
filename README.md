@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Grade's Project**
 
-###Connect with me:
+### Connect with me:
 
 <p align="left">
 
 </p>
 
-###Languages and Tools:
+### Languages and Tools:
 
 <p align="left"> 
 <a href="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" /> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a> 
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
