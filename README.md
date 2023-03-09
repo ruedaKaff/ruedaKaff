@@ -28,8 +28,14 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <p align="left"> 
-<a href="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="csharp" width="50" height="50"/> </a> 
+ 
+<a href="" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="csharp" width="50" height="50"/> </a> 
+  
+<a href="" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="csharp" width="50" height="50"/> </a> 
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
