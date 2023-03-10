@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+ ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -27,24 +27,34 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
+
 <p align="left"> 
-<a href="" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="csharp" width="50" height="50"/> </a> 
+ 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
  
 <a href="" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="csharp" width="50" height="50"/> </a> 
-  
-<a href="" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="csharp" width="50" height="50"/> </a> 
-
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="csharp" width="50" height="50"/> </a> 
+ 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="50" height="50"/> </a> 
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="nodejs" width="50" height="50"/> </a> 
 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a> 
-
+ 
+- 🌱 I’m currently learning
+ 
+<a href="" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="csharp" width="50" height="50"/> </a> 
+ 
+ <a href="" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="csharp" width="50" height="50"/> </a> 
 </p>
+
+### Studies
+<h1> </h1>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JhanCarlosRueda-Campus&show_icons=true&theme=react" /> 
 
