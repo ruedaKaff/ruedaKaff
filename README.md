@@ -31,27 +31,27 @@ Here are some ideas to get you started:
 <p align="left"> 
  
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="auto"/> </a>
  
 <a href="" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="csharp" width="50" height="50"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="csharp" width="65" height="auto"/> </a> 
  
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="50" height="50"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="65" height="auto"/> </a> 
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="nodejs" width="50" height="50"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="nodejs" width="65" height="auto"/> </a> 
 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="65" height="auto"/> </a> 
  
 - 🌱 I’m currently learning
  
 <a href="" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="csharp" width="50" height="50"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="csharp" width="65" height="auto"/> </a> 
  
  <a href="" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="csharp" width="50" height="50"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="csharp" width="65" height="auto"/> </a> 
 </p>
 
 ### Studies
