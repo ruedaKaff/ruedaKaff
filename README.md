@@ -48,13 +48,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning
  
 <a href="" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="csharp" width="65" height="auto"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="csharp" width="75" height="auto"/> </a> 
  
  <a href="" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="csharp" width="65" height="auto"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="csharp" width="75" height="auto"/> </a> 
 </p>
 
-### Studies
+
 <h1> </h1>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JhanCarlosRueda-Campus&show_icons=true&theme=react" /> 
 
