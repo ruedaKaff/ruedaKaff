@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 <p align="left">
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+<a href="https://www.linkedin.com/in/ruedakaf/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="nodejs" width="65" height="auto"/> </a>
 </p>
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align="left"> 
  
-<a href="https://www.linkedin.com/in/ruedakaf/" target="_blank" rel="noreferrer"> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="auto"/> </a>
  
 <a href="" target="_blank" rel="noreferrer"> 
