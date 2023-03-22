@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ruedakaf/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="nodejs" width="65" height="auto"/> </a>
+<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="nodejs" width="50" height="auto"/> </a>
 </p>
 
 ### Languages and Tools:
