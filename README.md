@@ -57,5 +57,5 @@ Here are some ideas to get you started:
 
 
 <h1> </h1>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruedaKaff&show_icons=true&theme=react" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ruedaKaff&show_icons=true&theme=react"/> 
 
