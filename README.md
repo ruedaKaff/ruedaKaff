@@ -19,12 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Degree Project**
 
-### Connect with me:
 
-<p align="left">
-<a href="https://www.linkedin.com/in/ruedakaf/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="nodejs" width="50" height="auto"/> </a>
-</p>
 
 ### Languages and Tools:
 
@@ -55,6 +50,12 @@ Here are some ideas to get you started:
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="csharp" width="75" height="auto"/> </a> 
 </p>
 
+### Connect with me:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ruedakaf/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="nodejs" width="50" height="auto"/> </a>
+</p>
 
 <h1> </h1>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ruedaKaff&show_icons=true&theme=react"/> 
