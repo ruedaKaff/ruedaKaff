@@ -28,6 +28,9 @@ Here are some ideas to get you started:
  
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="auto"/> </a>
+
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="nodejs" width="60" height="auto"/> </a>
  
 <a href="" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="csharp" width="65" height="auto"/> </a> 
