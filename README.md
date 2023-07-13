@@ -50,8 +50,10 @@ Here are some ideas to get you started:
  
 - 🌱 I’m currently learning
  
-<a href="" target="_blank" rel="noreferrer"> 
+
+<!--<a href="" target="_blank" rel="noreferrer"> 
 <img src="https://s3-alpha.figma.com/hub/file/2649946739/f6a7462a-0e1d-42d2-81aa-548a5dbce420-cover.png" alt="qwik" width="75" height="auto"/> </a> 
+-->
 </p>
 
 ### Connect with me:
