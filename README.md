@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="csharp" width="75" height="auto"/> </a> 
  
  <a href="" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="csharp" width="75" height="auto"/> </a> 
+<img src="https://s3-alpha.figma.com/hub/file/2649946739/f6a7462a-0e1d-42d2-81aa-548a5dbce420-cover.png" alt="qwik" width="75" height="auto"/> </a> 
 </p>
 
 ### Connect with me:
