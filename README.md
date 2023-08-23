@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="65" height="auto"/> </a> 
  
-- 🌱 I’m currently learning
+<!-- - 🌱 I’m currently learning -->
  
 
 <!--<a href="" target="_blank" rel="noreferrer"> 
