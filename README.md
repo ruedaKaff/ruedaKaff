@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="left"> 
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="nodejs" width="60" height="auto"/> </a>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="nodejs" width="60 " height="auto"/> </a>
 
  
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
