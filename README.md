@@ -46,7 +46,7 @@ Here are some ideas to get you  started:
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="nodejs" width="65" height="auto"/> </a> 
 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="65" height="auto"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="65" height="auto"/>  </a> 
  
 <!-- - 🌱 I’m currently learning -->
  
